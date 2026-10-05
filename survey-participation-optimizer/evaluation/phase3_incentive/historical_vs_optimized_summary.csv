@@ -1,0 +1,13 @@
+metric,value
+historical_incentive_cost,90321.88
+optimized_incentive_cost,262.0
+incremental_incentive_cost,-90059.88
+historical_expected_value,3212.4510572321437
+optimized_expected_value,92371.66060248658
+incremental_expected_value,89159.20954525445
+historical_mean_expected_value,0.10692843781353872
+optimized_mean_expected_value,3.074648357437226
+incremental_mean_expected_value,2.9677199196236876
+historical_mean_probability,0.16318988306533713
+optimized_mean_probability,0.16024362108996018
+incremental_mean_probability,-0.002946261975376952

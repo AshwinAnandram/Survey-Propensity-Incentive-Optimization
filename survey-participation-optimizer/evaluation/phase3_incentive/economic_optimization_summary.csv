@@ -1,0 +1,8 @@
+metric,value
+historical_mean_incentive,3.0064201311453584
+historical_incentive_cost,90321.88
+optimized_incentive_cost,15525.5
+optimized_expected_value,77450.91114620639
+baseline_expected_value,5302.972343547401
+change_in_incentive_cost,-74796.38
+change_in_expected_value,72147.93880265899

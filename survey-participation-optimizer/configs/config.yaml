@@ -1,0 +1,19 @@
+project:
+  name: survey-participation-optimizer
+  version: "0.1.0"
+
+data:
+  respondents: data/raw/respondents/respondents_v001.xlsx
+  surveys: data/raw/surveys/surveys_v001.xlsx
+  invitations: data/raw/invitations/invitations_v001.xlsx
+  responses: data/raw/responses/responses_v001.xlsx
+
+target:
+  name: completed
+
+split:
+  method: temporal
+  date_column: invitation_date
+  train_pct: 0.70
+  validation_pct: 0.15
+  test_pct: 0.15

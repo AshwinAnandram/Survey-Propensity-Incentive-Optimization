@@ -1,0 +1,11 @@
+feature,correlation_with_incentive
+prior_clicks,0.006499945675653882
+prior_click_rate,0.005272406327343203
+days_since_last_completion,-0.0052527089569691906
+prior_completions,0.004254762989454407
+prior_completion_rate,0.004182891781635153
+prior_invitations,0.0038940506107772873
+days_since_last_invite,-0.0032530849959525265
+survey_complexity,0.00144179536326356
+age,0.0013313183941551288
+survey_length_minutes,0.0012806060522832555

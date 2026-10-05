@@ -1,0 +1,7 @@
+economic_segment,survey_category,respondents,policy_changed,policy_increased,policy_decreased
+B2B,B2B,6299,100.0,0.0,100.0
+B2B,Finance,3684,100.0,0.0,100.0
+B2B,Technology,5006,100.0,0.0,100.0
+B2C,Consumer,7102,100.0,0.0,100.0
+B2C,Retail,3859,100.0,0.0,100.0
+Healthcare,Healthcare,4093,99.97556804300024,0.7818226239921818,99.19374541900807
